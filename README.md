@@ -17,13 +17,13 @@ This repository is for anyone to create pull requests during Hacktoberfest 2018,
 ![My First PR: Hacktoberfest](https://my-first-pr.github.io/assets/images/undraw_fall_is_coming_dg3x.svg)
 ![Hacktoberfest 2018](https://my-first-pr.github.io/assets/images/Hacktoberfest_2018_logo_lockup.png)
 
-# Getting Started
+#Getting Started
 
-### Example Profile
+#Example Profile
 
 - I'm an example that you can copy, if you want :)
-- I work on many things like...
-- My hobbies include...
+- I work on many things like
+- My hobbies include
 - [![twitter-alt][twitter-img]](https://twitter.com/example)
   [![facebook-alt][facebook-img]](https://facebook.com/example)
   [![google-img][google-img]](https://plus.google.com/+Example)
